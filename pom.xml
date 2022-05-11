@@ -108,7 +108,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub Packages</name>
-			<url>https://github.com/PIbutton/catalog.git</url>
+			<url>https://maven.pkg.github.com/PIbutton/catalog</url>
 		</repository>
 	</distributionManagement>
 
